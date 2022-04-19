@@ -1,0 +1,17 @@
+.header_name {
+    text-align: center;
+    color: blue;
+}
+
+main section h2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+#strengths {
+    font-size: 16px;
+}
+
+#weaknesses {
+    font-size: 16px;
+}
